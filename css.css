@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	font-family: Georgia;
+	background-image: url("https://wallpaperaccess.com/full/188646.jpg");
+	background-repeat: repeat;
+	background-size: 1900px;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+p {
+	color: #cfb525;
+	text-align: center;
+}
